@@ -7,3 +7,5 @@
 #### Architecture
 ![image](./api-gateway.png)
 
+#### Cognito as authoriser 
+
